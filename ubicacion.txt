@@ -1,0 +1,4 @@
+En el servidor 192.168.7.123
+el proyecto esta en: /home/desarrollo/ITSA_APIRest/src/routes/contabilidad/scripts
+
+Endpoint para probar: http://192.168.7.123:5000/contabilidad/ats/0190485048001/1/6/2025
