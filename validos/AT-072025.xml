@@ -123,21 +123,25 @@
         <air><detalleAir><codRetAir>322</codRetAir><baseImpAir>100.04</baseImpAir><porcentajeAir>1.00</porcentajeAir><valRetAir>1.00</valRetAir></detalleAir></air>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>003</establecimiento><puntoEmision>800</puntoEmision><secuencial>000000975</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120038000000009750000097516</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1104.56</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>165.68</montoIva><valRetBien10>16.57</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>003</establecimiento><puntoEmision>800</puntoEmision><secuencial>000000975</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120038000000009750000097516</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1104.56</baseImpGrav><baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce><montoIva>165.68</montoIva><valRetBien10>16.57</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
         <pagoExterior>
           <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
         </pagoExterior>
         <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001747</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120058000000017470000174714</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1660.17</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>249.03</montoIva><valRetBien10>24.90</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001747</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120058000000017470000174714</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1660.17</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>249.03</montoIva><valRetBien10>24.90</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
         <pagoExterior>
           <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
         </pagoExterior>
         <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001748</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120058000000017480000174817</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3443.44</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>516.52</montoIva><valRetBien10>51.65</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001748</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120058000000017480000174817</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3443.44</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>516.52</montoIva><valRetBien10>51.65</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
         <pagoExterior>
           <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
         </pagoExterior>
@@ -146,13 +150,18 @@
       <detalleCompras>
         <codSustento>06</codSustento><tpIdProv>01</tpIdProv>
         <idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante>
-        <parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>800</puntoEmision><secuencial>000003267</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120018000000032670000326919</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1789.79</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>268.47</montoIva><valRetBien10>26.85</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
+        <parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento><puntoEmision>800</puntoEmision>
+        <secuencial>000003267</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120018000000032670000326919</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1789.79</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>268.47</montoIva><valRetBien10>26.85</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
         <pagoExterior>
           <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
         </pagoExterior>
         <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
-      <detalleCompras><codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>800</puntoEmision><secuencial>000003268</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120018000000032680000327015</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1178.18</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>176.73</montoIva><valRetBien10>17.67</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
+      <detalleCompras><codSustento>06</codSustento><tpIdProv>01</tpIdProv>
+      <idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante>
+      <parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro>
+      <establecimiento>001</establecimiento><puntoEmision>800</puntoEmision><secuencial>000003268</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120018000000032680000327015</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1178.18</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>176.73</montoIva><valRetBien10>17.67</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
       <pagoExterior>
         <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago>
         <aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
@@ -167,7 +176,8 @@
         <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>800</puntoEmision><secuencial>000003270</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120018000000032700000327210</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1367.27</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>205.09</montoIva><valRetBien10>20.51</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>01/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>800</puntoEmision><secuencial>000003270</secuencial><fechaEmision>01/07/2025</fechaEmision><autorizacion>0107202501019000370100120018000000032700000327210</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1367.27</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>205.09</montoIva><valRetBien10>20.51</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
         <pagoExterior>
           <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
         </pagoExterior>
@@ -1898,12 +1908,80 @@
         </pagoExterior>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>1792893690001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>23/07/2025</fechaRegistro>
-        <establecimiento>001</establecimiento><puntoEmision>002</puntoEmision><secuencial>000001927</secuencial><fechaEmision>23/07/2025</fechaEmision><autorizacion>2307202501179289369000120010020000019271153601213</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>99500.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>14925.00</montoIva><valRetBien10>1492.50</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>1792893690001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel><fechaRegistro>23/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>002</puntoEmision>
+        <secuencial>000001927</secuencial>
+        <fechaEmision>23/07/2025</fechaEmision>
+        <autorizacion>2307202501179289369000120010020000019271153601213</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>99500.00</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>14925.00</montoIva>
+        <valRetBien10>1492.50</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>1792174643001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>23/07/2025</fechaRegistro>
-        <establecimiento>001</establecimiento><puntoEmision>003</puntoEmision><secuencial>000077957</secuencial><fechaEmision>23/07/2025</fechaEmision><autorizacion>2307202501179217464300120010030000779570808530117</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1752.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>262.80</montoIva><valRetBien10>26.28</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago><air><detalleAir><codRetAir>312</codRetAir><baseImpAir>1752.00</baseImpAir><porcentajeAir>1.75</porcentajeAir><valRetAir>30.66</valRetAir></detalleAir></air>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv>
+        <idProv>1792174643001</idProv><tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel><fechaRegistro>23/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>003</puntoEmision>
+        <secuencial>000077957</secuencial>
+        <fechaEmision>23/07/2025</fechaEmision>
+        <autorizacion>2307202501179217464300120010030000779570808530117</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>1752.00</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>262.80</montoIva>
+        <valRetBien10>26.28</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
+        <air>
+          <detalleAir>
+            <codRetAir>312</codRetAir>
+            <baseImpAir>1752.00</baseImpAir>
+            <porcentajeAir>1.75</porcentajeAir>
+            <valRetAir>30.66</valRetAir>
+          </detalleAir>
+        </air>
       </detalleCompras>
       <detalleCompras>
         <codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>1308625993001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>23/07/2025</fechaRegistro>
@@ -2063,93 +2141,406 @@
         <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>1827.71</montoIva><valRetBien10>182.77</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>001</establecimiento><puntoEmision>800</puntoEmision><secuencial>000003314</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120018000000033140000331614</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>374.35</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>56.15</montoIva><valRetBien10>5.62</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000003314</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120018000000033140000331614</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>374.35</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>56.15</montoIva>
+        <valRetBien10>5.62</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005704</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120068000000057040000570213</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1468.52</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>220.28</montoIva><valRetBien10>22.03</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005704</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120068000000057040000570213</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>1468.52</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce>
+        <montoIva>220.28</montoIva><valRetBien10>22.03</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005705</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120068000000057050000570316</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>285.67</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>42.85</montoIva><valRetBien10>4.29</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005705</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120068000000057050000570316</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>285.67</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>42.85</montoIva>
+        <valRetBien10>4.29</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>0990090866001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>001</establecimiento><puntoEmision>003</puntoEmision><secuencial>000143379</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501099009086600120010030001433791234567811</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>235.56</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>35.33</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
+        <codSustento>01</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0990090866001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>003</puntoEmision>
+        <secuencial>000143379</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501099009086600120010030001433791234567811</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>235.56</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>35.33</montoIva>
+        <valRetBien10>0.00</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005706</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120068000000057060000570419</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1067.66</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>160.15</montoIva><valRetBien10>16.02</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
-        <formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005706</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120068000000057060000570419</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>1067.66</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>160.15</montoIva>
+        <valRetBien10>16.02</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005707</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120068000000057070000570511</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>503.56</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>75.53</montoIva><valRetBien10>7.55</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision>
+        <secuencial>000005707</secuencial><fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120068000000057070000570511</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>503.56</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>75.53</montoIva>
+        <valRetBien10>7.55</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005708</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120068000000057080000570614</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>4434.01</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>665.10</montoIva><valRetBien10>66.51</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005708</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120068000000057080000570614</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>4434.01</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>665.10</montoIva>
+        <valRetBien10>66.51</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+          <formasDePago><formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005709</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120068000000057090000570717</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1779.44</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>266.92</montoIva><valRetBien10>26.69</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005709</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120068000000057090000570717</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>1779.44</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>266.92</montoIva>
+        <valRetBien10>26.69</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro>
-        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005710</secuencial><fechaEmision>28/07/2025</fechaEmision>
-        <autorizacion>2807202501019000370100120068000000057100000570811</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>395.02</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>59.25</montoIva><valRetBien10>5.93</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>28/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005710</secuencial>
+        <fechaEmision>28/07/2025</fechaEmision>
+        <autorizacion>2807202501019000370100120068000000057100000570811</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>395.02</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>59.25</montoIva>
+        <valRetBien10>5.93</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>29/07/2025</fechaRegistro>
-        <establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001780</secuencial><fechaEmision>29/07/2025</fechaEmision>
-        <autorizacion>2907202501019000370100120058000000017800000178012</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1715.20</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>257.28</montoIva><valRetBien10>25.73</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel><fechaRegistro>29/07/2025</fechaRegistro>
+        <establecimiento>005</establecimiento><puntoEmision>800</puntoEmision>
+        <secuencial>000001780</secuencial><fechaEmision>29/07/2025</fechaEmision>
+        <autorizacion>2907202501019000370100120058000000017800000178012</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>1715.20</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>257.28</montoIva>
+        <valRetBien10>25.73</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>29/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001781</secuencial><fechaEmision>29/07/2025</fechaEmision><autorizacion>2907202501019000370100120058000000017810000178115</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>8182.85</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>1227.43</montoIva><valRetBien10>122.74</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel><fechaRegistro>29/07/2025</fechaRegistro>
+        <establecimiento>005</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000001781</secuencial>
+        <fechaEmision>29/07/2025</fechaEmision>
+        <autorizacion>2907202501019000370100120058000000017810000178115</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>8182.85</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>1227.43</montoIva>
+        <valRetBien10>122.74</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>29/07/2025</fechaRegistro>
-        <establecimiento>012</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001845</secuencial><fechaEmision>29/07/2025</fechaEmision>
-        <autorizacion>2907202501019000370100120128000000018450000183114</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>906.70</baseImpGrav>
-        <baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>136.01</montoIva><valRetBien10>13.60</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes>
-        <valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
-        <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>29/07/2025</fechaRegistro>
+        <establecimiento>012</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000001845</secuencial>
+        <fechaEmision>29/07/2025</fechaEmision>
+        <autorizacion>2907202501019000370100120128000000018450000183114</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>906.70</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>136.01</montoIva>
+        <valRetBien10>13.60</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
         <codSustento>01</codSustento>
@@ -2160,7 +2551,8 @@
         <fechaRegistro>29/07/2025</fechaRegistro>
         <establecimiento>001</establecimiento>
         <puntoEmision>001</puntoEmision>
-        <secuencial>000000002</secuencial><fechaEmision>29/07/2025</fechaEmision>
+        <secuencial>000000002</secuencial>
+        <fechaEmision>29/07/2025</fechaEmision>
         <autorizacion>2907202501019515998100120010010000000026487874314</autorizacion>
         <baseNoGraIva>0.00</baseNoGraIva>
         <baseImponible>0.00</baseImponible>
@@ -2194,28 +2586,215 @@
           </detalleAir>
         </air>
       </detalleCompras>
-      <detalleCompras><codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>0990090866001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>29/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>003</puntoEmision><secuencial>000143428</secuencial><fechaEmision>29/07/2025</fechaEmision><autorizacion>2907202501099009086600120010030001434281234567811</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>282.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>42.30</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>8.46</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><air><detalleAir><codRetAir>3440</codRetAir><baseImpAir>282.00</baseImpAir><porcentajeAir>2.75</porcentajeAir><valRetAir>7.76</valRetAir></detalleAir></air>
+      <detalleCompras>
+        <codSustento>01</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0990090866001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>29/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>003</puntoEmision><secuencial>000143428</secuencial>
+        <fechaEmision>29/07/2025</fechaEmision>
+        <autorizacion>2907202501099009086600120010030001434281234567811</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>282.00</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>42.30</montoIva>
+        <valRetBien10>0.00</valRetBien10>
+        <valRetServ20>8.46</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <air>
+          <detalleAir>
+            <codRetAir>3440</codRetAir>
+            <baseImpAir>282.00</baseImpAir>
+            <porcentajeAir>2.75</porcentajeAir>
+            <valRetAir>7.76</valRetAir>
+          </detalleAir>
+        </air>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>29/07/2025</fechaRegistro><establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005711</secuencial><fechaEmision>29/07/2025</fechaEmision><autorizacion>2907202501019000370100120068000000057110000570917</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2838.83</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>425.82</montoIva><valRetBien10>42.58</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>29/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005711</secuencial>
+        <fechaEmision>29/07/2025</fechaEmision>
+        <autorizacion>2907202501019000370100120068000000057110000570917</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>2838.83</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce><montoIva>425.82</montoIva>
+        <valRetBien10>42.58</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>0992385502001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>002</puntoEmision><secuencial>000074927</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501099238550200120010020000749270007492711</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>642.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>96.30</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago><air><detalleAir><codRetAir>3440</codRetAir><baseImpAir>642.00</baseImpAir><porcentajeAir>2.75</porcentajeAir><valRetAir>17.66</valRetAir></detalleAir></air>
+        <codSustento>01</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>0992385502001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>30/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>002</puntoEmision>
+        <secuencial>000074927</secuencial>
+        <fechaEmision>30/07/2025</fechaEmision>
+        <autorizacion>3007202501099238550200120010020000749270007492711</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>642.00</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>96.30</montoIva>
+        <valRetBien10>0.00</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
+        <air>
+          <detalleAir>
+            <codRetAir>3440</codRetAir>
+            <baseImpAir>642.00</baseImpAir>
+            <porcentajeAir>2.75</porcentajeAir>
+            <valRetAir>17.66</valRetAir>
+          </detalleAir>
+        </air>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>0992385502001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>002</puntoEmision><secuencial>000074946</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501099238550200120010020000749460007494619</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>200.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>30.00</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><air><detalleAir><codRetAir>3440</codRetAir><baseImpAir>200.00</baseImpAir><porcentajeAir>2.75</porcentajeAir><valRetAir>5.50</valRetAir></detalleAir></air>
+        <codSustento>01</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0992385502001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>30/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>002</puntoEmision>
+        <secuencial>000074946</secuencial>
+        <fechaEmision>30/07/2025</fechaEmision>
+        <autorizacion>3007202501099238550200120010020000749460007494619</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>200.00</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>30.00</montoIva>
+        <valRetBien10>0.00</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <air>
+          <detalleAir>
+            <codRetAir>3440</codRetAir>
+            <baseImpAir>200.00</baseImpAir>
+            <porcentajeAir>2.75</porcentajeAir>
+            <valRetAir>5.50</valRetAir>
+          </detalleAir>
+        </air>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001782</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120058000000017820000178210</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2727.62</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>409.14</montoIva><valRetBien10>40.91</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel>
+        <fechaRegistro>30/07/2025</fechaRegistro>
+        <establecimiento>005</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000001782</secuencial>
+        <fechaEmision>30/07/2025</fechaEmision>
+        <autorizacion>3007202501019000370100120058000000017820000178210</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>2727.62</baseImpGrav>
+        <baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce>
+        <montoIva>409.14</montoIva>
+        <valRetBien10>40.91</valRetBien10>
+        <valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes>
+        <valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios>
+        <valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior>
+          <pagoLocExt>01</pagoLocExt>
+          <paisEfecPago>NA</paisEfecPago>
+          <aplicConvDobTrib>NA</aplicConvDobTrib>
+          <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001783</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120058000000017830000178313</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1779.43</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>266.91</montoIva><valRetBien10>26.69</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001783</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120058000000017830000178313</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1779.43</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>266.91</montoIva><valRetBien10>26.69</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001784</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120058000000017840000178416</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>979.48</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>146.92</montoIva><valRetBien10>14.69</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>005</establecimiento><puntoEmision>800</puntoEmision><secuencial>000001784</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120058000000017840000178416</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>979.48</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>146.92</montoIva><valRetBien10>14.69</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>1308625993001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>002</puntoEmision><secuencial>000000936</secuencial><fechaEmision>28/07/2025</fechaEmision><autorizacion>2807202501130862599300120010020000009361234567810</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>510.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>76.50</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>53.55</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago><air><detalleAir><codRetAir>343</codRetAir><baseImpAir>510.00</baseImpAir><porcentajeAir>1.00</porcentajeAir><valRetAir>5.10</valRetAir></detalleAir></air>
+        <codSustento>01</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>1308625993001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>002</puntoEmision><secuencial>000000936</secuencial><fechaEmision>28/07/2025</fechaEmision><autorizacion>2807202501130862599300120010020000009361234567810</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>510.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>76.50</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>53.55</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago><air><detalleAir><codRetAir>343</codRetAir><baseImpAir>510.00</baseImpAir><porcentajeAir>1.00</porcentajeAir><valRetAir>5.10</valRetAir></detalleAir></air>
       </detalleCompras>
       <detalleCompras>
         <codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>0990090866001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>28/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>003</puntoEmision><secuencial>000143412</secuencial><fechaEmision>28/07/2025</fechaEmision><autorizacion>2807202501099009086600120010030001434121234567818</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>180.00</baseImponible><baseImpGrav>0.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>0.00</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
@@ -2233,10 +2812,19 @@
         <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005717</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120068000000057170000571511</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>358.87</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>53.83</montoIva><valRetBien10>5.38</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005718</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120068000000057180000571612</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1494.28</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>224.14</montoIva><valRetBien10>22.41</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel>
+        <fechaRegistro>30/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision><secuencial>000005718</secuencial>
+        <fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120068000000057180000571612</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1494.28</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>224.14</montoIva><valRetBien10>22.41</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005719</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120068000000057190000571715</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1056.26</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>158.44</montoIva><valRetBien10>15.84</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento><tpIdProv>01</tpIdProv>
+        <idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante>
+        <parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005719</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120068000000057190000571715</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1056.26</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>158.44</montoIva><valRetBien10>15.84</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleCompras>
       <detalleCompras>
         <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>1792174643001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>003</puntoEmision><secuencial>000078191</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501179217464300120010030000781910808553911</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>566.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>84.90</montoIva><valRetBien10>8.49</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
@@ -2259,10 +2847,39 @@
         <pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>06</codSustento><tpIdProv>01</tpIdProv><idProv>0190003701001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>006</establecimiento><puntoEmision>800</puntoEmision><secuencial>000005716</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501019000370100120068000000057160000571417</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>711.77</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>106.77</montoIva><valRetBien10>10.68</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb><pagoExterior><pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg></pagoExterior><formasDePago><formaPago>20</formaPago></formasDePago>
+        <codSustento>06</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>0190003701001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel>
+        <fechaRegistro>30/07/2025</fechaRegistro>
+        <establecimiento>006</establecimiento>
+        <puntoEmision>800</puntoEmision>
+        <secuencial>000005716</secuencial>
+        <fechaEmision>30/07/2025</fechaEmision>
+        <autorizacion>3007202501019000370100120068000000057160000571417</autorizacion>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>711.77</baseImpGrav><baseImpExe>0.00</baseImpExe>
+        <montoIce>0.00</montoIce><montoIva>106.77</montoIva>
+        <valRetBien10>10.68</valRetBien10><valRetServ20>0.00</valRetServ20>
+        <valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50>
+        <valorRetServicios>0.00</valorRetServicios><valRetServ100>0.00</valRetServ100>
+        <valorRetencionNc>0.00</valorRetencionNc>
+        <totbasesImpReemb>0.00</totbasesImpReemb>
+        <pagoExterior><pagoLocExt>01</pagoLocExt>
+        <paisEfecPago>NA</paisEfecPago>
+        <aplicConvDobTrib>NA</aplicConvDobTrib>
+        <pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
+        </pagoExterior>
+          <formasDePago><formaPago>20</formaPago>
+        </formasDePago>
       </detalleCompras>
       <detalleCompras>
-        <codSustento>01</codSustento><tpIdProv>01</tpIdProv><idProv>0992997532001</idProv><tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel><fechaRegistro>30/07/2025</fechaRegistro><establecimiento>001</establecimiento><puntoEmision>002</puntoEmision><secuencial>000002354</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501099299753200120010020000023544238890511</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>200.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>30.00</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>21.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
+        <codSustento>01</codSustento>
+        <tpIdProv>01</tpIdProv><idProv>0992997532001</idProv>
+        <tipoComprobante>01</tipoComprobante><parteRel>SI</parteRel>
+        <fechaRegistro>30/07/2025</fechaRegistro>
+        <establecimiento>001</establecimiento>
+        <puntoEmision>002</puntoEmision>
+        <secuencial>000002354</secuencial><fechaEmision>30/07/2025</fechaEmision><autorizacion>3007202501099299753200120010020000023544238890511</autorizacion><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>200.00</baseImpGrav><baseImpExe>0.00</baseImpExe><montoIce>0.00</montoIce><montoIva>30.00</montoIva><valRetBien10>0.00</valRetBien10><valRetServ20>0.00</valRetServ20><valorRetBienes>0.00</valorRetBienes><valRetServ50>0.00</valRetServ50><valorRetServicios>21.00</valorRetServicios><valRetServ100>0.00</valRetServ100><valorRetencionNc>0.00</valorRetencionNc><totbasesImpReemb>0.00</totbasesImpReemb>
         <pagoExterior>
           <pagoLocExt>01</pagoLocExt><paisEfecPago>NA</paisEfecPago><aplicConvDobTrib>NA</aplicConvDobTrib><pagExtSujRetNorLeg>NA</pagExtSujRetNorLeg>
         </pagoExterior><air><detalleAir><codRetAir>3440</codRetAir><baseImpAir>200.00</baseImpAir><porcentajeAir>2.75</porcentajeAir><valRetAir>5.50</valRetAir></detalleAir></air>
@@ -2291,7 +2908,14 @@
         <tpIdCliente>05</tpIdCliente>
         <idCliente>0103187084</idCliente><parteRelVtas>NO</parteRelVtas>
         <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
-        <numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3827.05</baseImpGrav><montoIva>574.06</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>3827.05</baseImpGrav><montoIva>574.06</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleVentas>
       <detalleVentas>
         <tpIdCliente>04</tpIdCliente>
@@ -2315,101 +2939,339 @@
         <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2413.23</baseImpGrav><montoIva>361.99</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0102252996001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1278.45</baseImpGrav><montoIva>191.77</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0102252996001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>1278.45</baseImpGrav>
+        <montoIva>191.77</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0102609237001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1095.24</baseImpGrav><montoIva>164.29</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0102609237001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>1095.24</baseImpGrav><montoIva>164.29</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0102748373001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1858.92</baseImpGrav><montoIva>278.84</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0102748373001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>1858.92</baseImpGrav><montoIva>278.84</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0102822210001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>370.46</baseImpGrav><montoIva>55.57</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0102822210001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>370.46</baseImpGrav><montoIva>55.57</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0103192183001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>365.09</baseImpGrav><montoIva>54.76</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0103192183001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>365.09</baseImpGrav>
+        <montoIva>54.76</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0103219903001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>6867.64</baseImpGrav><montoIva>1030.14</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago></detalleVentas>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0103219903001</idCliente>
+        <parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>3</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>6867.64</baseImpGrav>
+        <montoIva>1030.14</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago></detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0103272134001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>738.36</baseImpGrav><montoIva>110.75</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0103359436001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>810.37</baseImpGrav><montoIva>121.56</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0103419735001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>5993.96</baseImpGrav><montoIva>899.09</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0103662615001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3695.00</baseImpGrav><montoIva>554.25</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0103712063001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3850.44</baseImpGrav><montoIva>577.57</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0104141189001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>4252.27</baseImpGrav><montoIva>637.84</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0104917240001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1474.75</baseImpGrav><montoIva>221.21</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0103272134001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>738.36</baseImpGrav>
+        <montoIva>110.75</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0105369896001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3010.89</baseImpGrav><montoIva>451.63</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0103359436001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>810.37</baseImpGrav><montoIva>121.56</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0150684868001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3656.21</baseImpGrav><montoIva>548.43</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas><tpIdCliente>04</tpIdCliente><idCliente>0150684868001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>744.27</baseImpGrav><montoIva>111.64</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0190001490001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>19997.54</baseImpGrav><montoIva>2999.63</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0190003701001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>102</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>283909.96</baseImpGrav><montoIva>42586.48</montoIva><montoIce>0.00</montoIce><valorRetIva>4258.68</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago></detalleVentas>
-      <detalleVentas><tpIdCliente>04</tpIdCliente><idCliente>0190166856001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>7</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>32308.69</baseImpGrav><montoIva>4846.32</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0103419735001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>5993.96</baseImpGrav><montoIva>899.09</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0190168190001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>14299.72</baseImpGrav><montoIva>2144.96</montoIva><montoIce>0.00</montoIce><valorRetIva>214.50</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0103662615001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>3695.00</baseImpGrav><montoIva>554.25</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0190383008001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>12</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>37622.41</baseImpGrav><montoIva>5643.35</montoIva><montoIce>0.00</montoIce><valorRetIva>564.34</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0103712063001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>3850.44</baseImpGrav><montoIva>577.57</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0190386465001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>11</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>124020.01</baseImpGrav><montoIva>18602.99</montoIva><montoIce>0.00</montoIce><valorRetIva>1860.30</valorRetIva><valorRetRenta>37.24</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0104141189001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>4252.27</baseImpGrav>
+        <montoIva>637.84</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0190386465001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>503.01</baseImpGrav><montoIva>75.45</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <tpIdCliente>04</tpIdCliente><idCliente>0104917240001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>1474.75</baseImpGrav><montoIva>221.21</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0195090971001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>8795.61</baseImpGrav><montoIva>1319.34</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0105369896001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>3010.89</baseImpGrav>
+        <montoIva>451.63</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0195104573001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>4</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>7272.29</baseImpGrav><montoIva>1090.85</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0150684868001</idCliente>
+        <parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>3656.21</baseImpGrav>
+        <montoIva>548.43</montoIva>
+        <montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0195120706001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>8601.33</baseImpGrav><montoIva>1290.19</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0150684868001</idCliente>
+        <parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>04</tipoComprobante>
+        <tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>744.27</baseImpGrav>
+        <montoIva>111.64</montoIva>
+        <montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0195120706001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1773.92</baseImpGrav><montoIva>266.09</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0190001490001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>19997.54</baseImpGrav>
+        <montoIva>2999.63</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0200985455001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>4074.73</baseImpGrav><montoIva>611.21</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0190003701001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>102</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>283909.96</baseImpGrav><montoIva>42586.48</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>4258.68</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago></detalleVentas>
+      <detalleVentas><tpIdCliente>04</tpIdCliente>
+        <idCliente>0190166856001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>7</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>32308.69</baseImpGrav>
+        <montoIva>4846.32</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0201103553001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>633.92</baseImpGrav><montoIva>95.09</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas><tpIdCliente>04</tpIdCliente><idCliente>0201472032001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>4</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>4038.55</baseImpGrav><montoIva>605.77</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0201472032001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>406.09</baseImpGrav><montoIva>60.91</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0300120235001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>388.10</baseImpGrav><montoIva>58.22</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0300886025001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>10887.29</baseImpGrav><montoIva>1633.10</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>0190168190001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>14299.72</baseImpGrav><montoIva>2144.96</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>214.50</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>0301665113001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2081.79</baseImpGrav><montoIva>312.27</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>0190383008001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>12</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>37622.41</baseImpGrav><montoIva>5643.35</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>564.34</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0190386465001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>11</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>124020.01</baseImpGrav><montoIva>18602.99</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>1860.30</valorRetIva>
+        <valorRetRenta>37.24</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0190386465001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>503.01</baseImpGrav><montoIva>75.45</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0195090971001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>8795.61</baseImpGrav><montoIva>1319.34</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0195104573001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>4</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>7272.29</baseImpGrav><montoIva>1090.85</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0195120706001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>8601.33</baseImpGrav><montoIva>1290.19</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0195120706001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>1773.92</baseImpGrav><montoIva>266.09</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0200985455001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>4074.73</baseImpGrav><montoIva>611.21</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0201103553001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>633.92</baseImpGrav><montoIva>95.09</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas><tpIdCliente>04</tpIdCliente><idCliente>0201472032001</idCliente>
+      <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+      <tipoEmision>E</tipoEmision><numeroComprobantes>4</numeroComprobantes>
+      <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+      <baseImpGrav>4038.55</baseImpGrav><montoIva>605.77</montoIva><montoIce>0.00</montoIce>
+      <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+      <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0201472032001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>406.09</baseImpGrav><montoIva>60.91</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0300120235001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>388.10</baseImpGrav><montoIva>58.22</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0300886025001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>10887.29</baseImpGrav><montoIva>1633.10</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>0301665113001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>2081.79</baseImpGrav><montoIva>312.27</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
         <tpIdCliente>04</tpIdCliente><idCliente>0301667531001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3789.42</baseImpGrav><montoIva>568.41</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
@@ -2868,25 +3730,54 @@
         <tpIdCliente>04</tpIdCliente><idCliente>1714554068001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>4</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>23375.79</baseImpGrav><montoIva>3506.37</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1714805189001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2394.78</baseImpGrav><montoIva>359.22</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1714805189001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2394.78</baseImpGrav><montoIva>359.22</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1716270341001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>21</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>40716.68</baseImpGrav><montoIva>6107.49</montoIva><montoIce>0.00</montoIce><valorRetIva>539.42</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1716270341001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>21</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>40716.68</baseImpGrav><montoIva>6107.49</montoIva><montoIce>0.00</montoIce><valorRetIva>539.42</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1716270341001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>4</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2704.35</baseImpGrav><montoIva>405.65</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <tpIdCliente>04</tpIdCliente><idCliente>1716270341001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>4</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2704.35</baseImpGrav><montoIva>405.65</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1716448756001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1853.92</baseImpGrav><montoIva>278.09</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1716448756001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1853.92</baseImpGrav><montoIva>278.09</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1716547185001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3597.67</baseImpGrav><montoIva>539.65</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1716547185001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>3597.67</baseImpGrav><montoIva>539.65</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1718040973001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1628.89</baseImpGrav><montoIva>244.33</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1718040973001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>1628.89</baseImpGrav><montoIva>244.33</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1718997206001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3371.53</baseImpGrav><montoIva>505.73</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1718997206001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>3371.53</baseImpGrav><montoIva>505.73</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
         <tpIdCliente>04</tpIdCliente><idCliente>1719544296001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1737.40</baseImpGrav><montoIva>260.61</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
@@ -2943,98 +3834,269 @@
         <tpIdCliente>04</tpIdCliente><idCliente>1793191420001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>11</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>9701.58</baseImpGrav><montoIva>1455.25</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1793192537001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>13891.42</baseImpGrav><montoIva>2083.71</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1793192537001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>13891.42</baseImpGrav><montoIva>2083.71</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1793218366001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>17086.96</baseImpGrav><montoIva>2563.04</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1793218366001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>17086.96</baseImpGrav><montoIva>2563.04</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1800670752001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1540.69</baseImpGrav><montoIva>231.11</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1800670752001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>1540.69</baseImpGrav><montoIva>231.11</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1802304343001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>10742.26</baseImpGrav><montoIva>1611.33</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1802304343001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>10742.26</baseImpGrav><montoIva>1611.33</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1802517134001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>659.89</baseImpGrav><montoIva>98.99</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1802517134001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>659.89</baseImpGrav><montoIva>98.99</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1802599702001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>7</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>39706.88</baseImpGrav><montoIva>5956.02</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1802599702001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>7</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>39706.88</baseImpGrav><montoIva>5956.02</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1802599702001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>816.65</baseImpGrav><montoIva>122.50</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <tpIdCliente>04</tpIdCliente><idCliente>1802599702001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>816.65</baseImpGrav><montoIva>122.50</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1802799625001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>20871.47</baseImpGrav><montoIva>3130.72</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1802799625001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>20871.47</baseImpGrav><montoIva>3130.72</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1802916104001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>11</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>14074.51</baseImpGrav><montoIva>2111.17</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1802916104001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>11</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>14074.51</baseImpGrav><montoIva>2111.17</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
-      <detalleVentas><tpIdCliente>04</tpIdCliente><idCliente>1802916104001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>829.29</baseImpGrav><montoIva>124.39</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1803006178001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>424.35</baseImpGrav><montoIva>63.65</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
-      </detalleVentas>
-      <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1803118668001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1300.85</baseImpGrav><montoIva>195.13</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+      <detalleVentas><tpIdCliente>04</tpIdCliente><idCliente>1802916104001</idCliente>
+      <parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>829.29</baseImpGrav><montoIva>124.39</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1803440930001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>635.65</baseImpGrav><montoIva>95.34</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1803006178001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>424.35</baseImpGrav><montoIva>63.65</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1803461035001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>776.20</baseImpGrav><montoIva>116.43</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1803118668001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1300.85</baseImpGrav><montoIva>195.13</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1803498052001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>776.21</baseImpGrav><montoIva>116.43</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1803440930001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>635.65</baseImpGrav><montoIva>95.34</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1804518619001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>941.38</baseImpGrav><montoIva>141.21</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1803461035001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>776.20</baseImpGrav><montoIva>116.43</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1805240676001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>846.95</baseImpGrav><montoIva>127.04</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1803498052001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>776.21</baseImpGrav><montoIva>116.43</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1891713580001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>11</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>13919.29</baseImpGrav><montoIva>2087.91</montoIva><montoIce>0.00</montoIce><valorRetIva>189.09</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1804518619001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>941.38</baseImpGrav><montoIva>141.21</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1891716865001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>16</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>30896.73</baseImpGrav><montoIva>4634.51</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1805240676001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>846.95</baseImpGrav><montoIva>127.04</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1891716865001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>2499.66</baseImpGrav><montoIva>374.94</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <tpIdCliente>04</tpIdCliente><idCliente>1891713580001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>11</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>13919.29</baseImpGrav><montoIva>2087.91</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>189.09</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1900160225001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>17113.36</baseImpGrav><montoIva>2567.01</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1891716865001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>16</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>30896.73</baseImpGrav><montoIva>4634.51</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1900302314001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>363.00</baseImpGrav><montoIva>54.45</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1891716865001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>04</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>2499.66</baseImpGrav><montoIva>374.94</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1900555275001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3297.68</baseImpGrav><montoIva>494.66</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1900160225001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>17113.36</baseImpGrav><montoIva>2567.01</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1900762202001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>5369.32</baseImpGrav><montoIva>805.40</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1900302314001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>363.00</baseImpGrav><montoIva>54.45</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>1900555275001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>3</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3297.68</baseImpGrav><montoIva>494.66</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+      </detalleVentas>
+      <detalleVentas>
+        <tpIdCliente>04</tpIdCliente><idCliente>1900762202001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>5369.32</baseImpGrav><montoIva>805.40</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas><tpIdCliente>04</tpIdCliente><idCliente>1900802198001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>752.12</baseImpGrav><montoIva>112.82</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>1990925190001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>4422.93</baseImpGrav><montoIva>663.44</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>1990925190001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>4422.93</baseImpGrav><montoIva>663.44</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>2100194758001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1156.43</baseImpGrav><montoIva>173.46</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente><idCliente>2100194758001</idCliente>
+        <parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible>
+        <baseImpGrav>1156.43</baseImpGrav><montoIva>173.46</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>2100269378001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>1871.48</baseImpGrav><montoIva>280.73</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>2100269378001</idCliente><parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision>
+        <numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible><baseImpGrav>1871.48</baseImpGrav>
+        <montoIva>280.73</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>2200116925001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>868.69</baseImpGrav><montoIva>130.30</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>01</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>2200116925001</idCliente>
+        <parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>868.69</baseImpGrav>
+        <montoIva>130.30</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago>
+          <formaPago>01</formaPago>
+        </formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>2390000831001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>2</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>4800.41</baseImpGrav><montoIva>720.06</montoIva><montoIce>0.00</montoIce><valorRetIva>72.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>2390000831001</idCliente>
+        <parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision>
+        <numeroComprobantes>2</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>4800.41</baseImpGrav>
+        <montoIva>720.06</montoIva><montoIce>0.00</montoIce>
+        <valorRetIva>72.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>2390008514001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>1</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>3386.00</baseImpGrav><montoIva>507.90</montoIva><montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>2390008514001</idCliente>
+        <parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision>
+        <numeroComprobantes>1</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>3386.00</baseImpGrav>
+        <montoIva>507.90</montoIva>
+        <montoIce>0.00</montoIce><valorRetIva>0.00</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago><formaPago>20</formaPago></formasDePago>
       </detalleVentas>
       <detalleVentas>
-        <tpIdCliente>04</tpIdCliente><idCliente>2390043441001</idCliente><parteRelVtas>NO</parteRelVtas><tipoComprobante>18</tipoComprobante><tipoEmision>E</tipoEmision><numeroComprobantes>6</numeroComprobantes><baseNoGraIva>0.00</baseNoGraIva><baseImponible>0.00</baseImponible><baseImpGrav>65274.45</baseImpGrav><montoIva>9791.17</montoIva><montoIce>0.00</montoIce><valorRetIva>979.13</valorRetIva><valorRetRenta>0.00</valorRetRenta><formasDePago><formaPago>20</formaPago></formasDePago>
+        <tpIdCliente>04</tpIdCliente>
+        <idCliente>2390043441001</idCliente>
+        <parteRelVtas>NO</parteRelVtas>
+        <tipoComprobante>18</tipoComprobante>
+        <tipoEmision>E</tipoEmision>
+        <numeroComprobantes>6</numeroComprobantes>
+        <baseNoGraIva>0.00</baseNoGraIva>
+        <baseImponible>0.00</baseImponible>
+        <baseImpGrav>65274.45</baseImpGrav>
+        <montoIva>9791.17</montoIva>
+        <montoIce>0.00</montoIce>
+        <valorRetIva>979.13</valorRetIva>
+        <valorRetRenta>0.00</valorRetRenta>
+        <formasDePago>
+          <formaPago>20</formaPago>
+        </formasDePago>
       </detalleVentas>
     </ventas>
     <ventasEstablecimiento>
